@@ -1,0 +1,154 @@
+[
+  {
+    "id": "INORI",
+    "name": "Inori",
+    "skillOverview": "CẢ 3 SKILL GÂY SÁT THƯƠNG CHO ĐỐI THỦ GẦN NHẤT",
+    "skill": [
+      {
+        "name": "Tia năng lượng mặt trời",
+        "description": "Tia năng lượng mặt trời\n\n Inori có thể điều khiển sóng nước một cách khéo léo và nhanh chóng.  Sóng nước mà Inori tạo ra không chỉ di chuyển nhanh mà còn có sức sát thương mạnh, gây thương tích lớn cho kẻ địch."
+      },
+      {
+        "name": "Vine Whip",
+        "description": "Lợi dụng tốc độ cực nhanh, Inori sẽ tạo ra những vòng xoáy với tốc độ tối đa đánh thẳng vào mục tiêu, bất kỳ ai đứng trước Inori sẽ bị cuốn vào vòng xoáy này.  Đây được coi là kỹ năng gây sát thương tuyệt đối bởi một khi trúng đòn, đối thủ sẽ không thể chạy thoát."
+      },
+      {
+        "name": "Nhà máy nước",
+        "description": "Kỹ năng nâng cao của Inori, có thể tạo ra 3 đợt sóng nước mạnh với sát thương cực lớn.  Một tia nước với tốc độ cực nhanh phá hủy mọi thứ nó đi qua.  Mục tiêu chỉ thoáng nhìn thấy một dòng nước và bị dính đòn ngay lập tức mà không thể bỏ chạy."
+      }
+    ]
+  },
+  {
+    "id": "COKONER",
+    "name": "Cokoner",
+    "skillOverview": "SKILL 1: SÁT THƯƠNG DIỆN RỘNG\nSKILL 2: HỒI MÁU TOÀN ĐỒNG ĐỘI + TĂNG PHÒNG THỦ\nSKILL 3: SÁT THƯƠNG DIỆN RỘNG",
+    "skill": [
+      {
+        "name": "Doom Desire",
+        "description": " Cokoner sử dụng kỹ năng và vòng quay của chính mình để tạo ra những quả cầu sét lớn gây sát thương trên diện rộng, gây sát thương nghiêm trọng cho đối thủ.  Đây là một kỹ năng đáng gờm và rất hữu ích trong việc hỗ trợ đội hình"
+      },
+      {
+        "name": "Wish Reyez",
+        "description": "Đây là kỹ năng hữu hiệu của Cokoner trong việc hỗ trợ đồng đội phòng thủ sau mỗi đợt tấn công.  Vì Cokoner sẽ giúp đồng đội hồi một lượng HP và tăng thuộc tính phòng thủ để hỗ trợ tối ưu cho chiến thắng của đội hình chiến đấu."
+      },
+      {
+        "name": "Tầm nhìn tương lai",
+        "description": "Đây được coi là kỹ năng chính của Cokoner.  Ở kỹ năng này, Cokoner sẽ thể hiện kỹ thuật gọi và điều khiển một quả cầu ánh sáng với tầm sát thương cực rộng và cực mạnh lên đối thủ.  Đối phương chắc chắn sẽ không thể chạy thoát hay ẩn nấp khi Cokoner sử dụng chiêu thức này.  Đây là khả năng đặc biệt của Cokoner khi bạn sở hữu linh vật này."
+      }
+    ]
+  },
+  {
+    "id": "EARKOO",
+    "name": "Earkoo",
+    "skillOverview": "SKILL 1: SÁT THƯƠNG HÀNG TRƯỚC \nSKILL 2: GÂY CHOÁNG 1 \nSKILL 3: GÂY CHOÁNG TOÀN BỘ ĐỘI HÌNH",
+    "skill": [
+      {
+        "name": "Fell Stinger",
+        "description": " Sử dụng trọng lượng cơ thể nặng nề của mình để nghiền nát mọi kẻ thù đứng ở tiền tuyến và đối mặt với Earkoo.  Bạn phải là một gã to lớn hoặc sở hữu sức mạnh ngang ngửa thì mới dám đối đầu với Earkoo."
+      },
+      {
+        "name": "X-Scissor",
+        "description": "Bước nhảy ngàn cân !!  Kỹ năng nói lên tất cả.  Khả năng này mạnh đến nỗi bất kỳ kẻ thù nào dính phải nó cũng sẽ bị choáng."
+      },
+      {
+        "name": "Bảo vệ",
+        "description": "Ulti này có thể làm choáng toàn bộ đội hình đối phương và gây sát thương đáng kinh ngạc.  Nếu bạn không có thể lực tốt, đối đầu trực tiếp với Earkoo không phải là một quyết định khôn ngoan chút nào khi anh ta sử dụng khả năng này."
+      }
+    ]
+  },
+  {
+    "id": "LEGOLAS",
+    "name": "Legolas",
+    "skillOverview": "SKILL 1-2: SÁT THƯƠNG DIỆN RỘNG \nSKILL 3: LOẠI BỎ CÁC SKILL ĐỐI THỦ LÊN BẢN THÂN, TỰ HỒI MÁU VÀ TĂNG DAME",
+    "skill": [
+      {
+        "name": "Nguồn gốc Xung",
+        "description": "Legolas có thể tạo ra một quả bom nước khổng lồ với khả năng kiểm soát nước vượt trội và gây sát thương cho đối thủ trên phạm vi rộng bằng cách sử dụng kỹ năng này."
+      },
+      {
+        "name": "Vòi nước",
+        "description": "Legolas phun ra một dòng nước bằng hàm răng lớn và mạnh mẽ của mình, tạo ra một trận mưa lớn với khối lượng lớn gây sát thương cho đối thủ trên diện rộng.  Không thể chạy trốn với Legolas!"
+      },
+      {
+        "name": "Tâm trí bình tĩnh",
+        "description": "Đây là sức mạnh ban cho Legolas bất khả chiến bại.  Với khả năng này, Legolas có thể loại bỏ tất cả các tác động tiêu cực lên bản thân, hồi máu và tăng cường sát thương trong chiến đấu.  Đây là một kỹ thuật cho phép Legolas ở trong cuộc chiến trong một thời gian dài đồng thời gây ra một lượng sát thương lớn lên đối thủ của mình."
+      }
+    ]
+  },
+  {
+    "id": "NEIKOO",
+    "name": "Neikoo",
+    "skillOverview": "SKILL 1: GÂY SÁT THƯƠNG CHO ĐỐI THỦ ĐỐI DIỆN \nSKILL 2: TỰ HỒI MÁU CHO BẢN THÂN \nSKILL 3: SÁT THƯƠNG DIỆN RỘNG",
+    "skill": [
+      {
+        "name": "Chế nhạo",
+        "description": "Kỹ năng này có thể gây ra một lượng sát thương lớn lên bất kỳ kẻ thù nào đứng trước Neikoo.  Đừng đánh giá thấp Neikoo!"
+      },
+      {
+        "name": "Chữa bệnh",
+        "description": " Sự dẻo dai của anh ấy đến từ khả năng hồi phục không giới hạn.  Bất kể kẻ thù gây ra bao nhiêu sát thương cho anh ta, họ phải ngạc nhiên bởi khả năng chữa bệnh đáng kinh ngạc của anh ta."
+      },
+      {
+        "name": "Psystrike",
+        "description": "Psystrike là tất cả về việc sử dụng & chuyển đổi sóng Âm để tạo ra sát thương.  Với phạm vi sát thương rộng, tốt hơn hết bạn không nên đối đầu trực tiếp với Neikoo với Neikoo."
+      }
+    ]
+  },
+  {
+    "id": "RUSMOONCH",
+    "name": "Rusmoonch",
+    "skillOverview": "SKILL 1: TỰ HỒI MÁU \nSKILL 2: SÁT THƯƠNG 1-1 \nSKILL 3: HỒI MÁU NGẪU NHIÊN 1 ĐỒNG ĐỘI VÀ BẢN THÂN",
+    "skill": [
+      {
+        "name": "Hồi phục Khi chảy máu",
+        "description": "Hồi phục Khi chảy máu, Rus Moonch sở hữu hệ số hồi máu đáng gờm.  Khả năng phi thường này sẽ luôn hỗ trợ Rus Moonch chiến thắng những kẻ bất chấp vẻ ngoài của mình."
+      },
+      {
+        "name": "Ném củ cải “Rus Moonch’s mad”",
+        "description": "Ném củ cải “Rus Moonch’s mad” là câu cảnh báo bạn không nên bỏ qua - Nó chắc chắn không vui chút nào.  Đừng mải mê ngắm nhìn nụ cười của anh ta mà quên mất sức mạnh và sức sát thương đáng sợ khi vũ khí đặc biệt của anh ta được tung ra."
+      },
+      {
+        "name": "Hồi sức kép Nếu tôi là bạn",
+        "description": "Hồi sức kép Nếu tôi là bạn, tôi sẽ chiếm một vị trí đứng ngay cạnh anh chàng tốt bụng này.  Chính tình yêu thương vô bờ bến đã tạo nên điều kỳ diệu cho kỹ năng thứ ba của anh.  Kỹ năng này không chỉ giúp anh ta chữa lành vết thương mà còn hỗ trợ một đồng đội ngẫu nhiên trong việc tái tạo một phần máu đã mất của anh ta trong trận chiến với kẻ thù."
+      }
+    ]
+  },
+  {
+    "id": "SKURUMI",
+    "name": "Skurumi",
+    "skillOverview": "SKILL 1: GÂY SÁT THƯƠNG 1 HÀNG TỪ TRÁI QUA PHẢI\nSKILL 2: GÂY SÁT THƯƠNG TẤT CẢ ĐỘI HÌNH ĐỐI THỦ \nSKILL 3: GÂY SÁT THƯƠNG LÊN HP THẤP NHẤT",
+    "skill": [
+      {
+        "name": "Water Barey",
+        "description": "Với sức mạnh của nước, Skurumi có thể triệu hồi một thác nước khổng lồ quét sạch bất kỳ đối thủ nào dám ngăn cản anh ta."
+      },
+      {
+        "name": "Gunzer Perima",
+        "description": "Chuẩn bị nơi trú ẩn của bạn;  bão đến!  Tất cả những kẻ thù trên chiến trường sẽ phải hứng chịu cơn bão cuồng nộ mà Skurumi tạo ra."
+      },
+      {
+        "name": "Zaki Frande",
+        "description": "Đi sau nếu bạn yếu.  Kỹ năng này sẽ nhắm mục tiêu vào kẻ thù có HP thấp nhất.  Hãy nhanh chóng tìm ra một đồng minh sở hữu yếu tố hồi phục đáng tin cậy trước khi bị Skurumi nhắm tới."
+      }
+    ]
+  },
+  {
+    "id": "RAIZER",
+    "name": "Raizer",
+    "skillOverview": "SKILL 1: GÂY SÁT THƯƠNG TOÀN BỘ HÀNG SAU \nSKILL 2: ƯU TIÊN ĐÁNH TRƯỚC VÌ TỐC ĐỘ CAO \nSKILL 3: SÁT THƯƠNG CAO + GÂY CHOÁNG",
+    "skill": [
+      {
+        "name": "Por Buble",
+        "description": "Por Buble Kỹ năng này được thực hiện với tốc độ cực cao.  Raizer nhanh chóng tiếp cận và gây sát thương lớn lên toàn bộ hàng sau của đối phương."
+      },
+      {
+        "name": "Aland Vyper",
+        "description": "Những vũ khí quái dị đó được liên kết không thể tách rời với cánh tay của anh ấy đã làm nên thương hiệu của anh ấy\".  Hãy cẩn thận khi bạn đang đứng trước Raizer vì tốc độ của kỹ năng này nhanh hơn rất nhiều so với cái bóng của hắn."
+      },
+      {
+        "name": "Pre Restion",
+        "description": "Ulti này mạnh đến mức khiến kẻ địch phải choáng váng khi thi triển nó.  Nếu bạn không chắc rằng mình đủ mạnh để chống lại nó, hãy chọn đứng sau một tanker tốt."
+      }
+    ]
+  }
+]
